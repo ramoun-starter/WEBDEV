@@ -10,9 +10,9 @@
 
 ## Built With
 
-- Languages: _**N/A**_
+- Languages: _**HTML, CSS**_
 - Frameworks: _**N/A**_
-- Technologies used: _**N/A**_
+- Technologies used: _**GIT, GITHUB, LINTERS**_
 
 ## Live Demo
 
