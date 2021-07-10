@@ -1,0 +1,32 @@
+{
+  "name": "webdev",
+  "version": "1.0.0",
+  "description": "a web dev projects template with boilerplate code",
+  "main": "gulpfile.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^8.0.0",
+    "hint": "^6.1.4",
+    "stylelint": "^13.13.1",
+    "stylelint-config-standard": "^21.0.0",
+    "stylelint-csstree-validator": "^1.9.0",
+    "stylelint-scss": "^3.19.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MrRamoun/WEBDEV.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MrRamoun/WEBDEV/issues"
+  },
+  "homepage": "https://github.com/MrRamoun/WEBDEV#readme"
+}
