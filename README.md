@@ -43,12 +43,10 @@ To get a local copy up and running follow these simple example steps.
 - install **Webhint** linter
 
   1. **Run** `npm install --save-dev hint@6.x`
-  2. **Copy** [.hintrc](https://github.com/microverseinc/linters-config/blob/master/html-css/.hintrc) file to the root directory of your project.
 
 - install **Stylelint** linter
 
   1. **Run** `npm install --save-dev stylelint@13.x stylelint-scss@3.x stylelint-config-standard@21.x stylelint-csstree-validator@1.x`
-  2. **Copy** [.stylelintrc.json](https://github.com/microverseinc/linters-config/blob/master/html-css/.stylelintrc.json) to the root directory of your project.
 
 
 ### Usage
