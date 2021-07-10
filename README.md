@@ -10,9 +10,9 @@
 
 ## Built With
 
-- Languages: _**N/A**_
+- Languages: _**HTML, CSS**_
 - Frameworks: _**N/A**_
-- Technologies used: _**N/A**_
+- Technologies used: _**GIT, GITHUB, LINTERS**_
 
 ## Live Demo
 
@@ -98,4 +98,4 @@ Give a ⭐️ if you like this project!
 
 ## 📝 License
 
-This project is [MIT](lic.url) licensed.
+This project is [MIT](license) licensed.
