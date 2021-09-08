@@ -68,11 +68,13 @@ To get a local copy up and running follow these simple example steps.
 
 ## Authors
 
-👤 **Author1**
+👤 **Ramoun**
 
-- **GitHub**: [![@mrramoun](https://img.shields.io/github/followers/MrRamoun?label=Ramoun&style=social)](https://github.com/mrramoun)
-- **Twitter**: [![@ramoun16](https://img.shields.io/twitter/follow/ramoun16?label=ramoun16&style=social)](https://twitter.com/ramoun16)
-- **LinkdIn**: [![@ramoun](https://img.shields.io/github/followers/ramon?label=ramoun&logo=linkedin&style=social)](https://www.linkedin.com/in/ramoun/)
+ Platform | Badge |
+ --- | --- |
+ **GitHub**  | [![@mrramoun](https://img.shields.io/github/followers/MrRamoun?label=Ramoun&style=social)](https://github.com/mrramoun)
+ **Twitter** | [![@ramoun16](https://img.shields.io/twitter/follow/ramoun16?label=ramoun16&style=social)](https://twitter.com/ramoun16)
+ **LinkdIn** | [![Linkedin Badge](https://img.shields.io/badge/-Ramoun-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/ramoun)](https://www.linkedin.com/in/ramoun/)
 
 👤 **Author2**
 
