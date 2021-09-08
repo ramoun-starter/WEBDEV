@@ -1,4 +1,4 @@
-[![](https://img.shields.io/static/v1?label=BY&message=RAMOUN&color=birghtgreen)](https://mrramoun.github.io)
+[![Ramoun's badge](https://img.shields.io/static/v1?label=BY&message=RAMOUN&color=birghtgreen)](https://mrramoun.github.io)
 
 <!-- Feel Free to Add, Update, Delete Any Section you find needs so -->
 
@@ -59,7 +59,6 @@ To get a local copy up and running follow these simple example steps.
   1. **Run** `touch gulpfile.js`
   2. **Run** `npm install gulp --save-dev`
   3. **Run** `npm install gulp-autoprefixer --save-dev`
-
 
 ### Usage
 
