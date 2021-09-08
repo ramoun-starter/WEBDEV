@@ -57,8 +57,9 @@ To get a local copy up and running follow these simple example steps.
 - install **gulp**
 
   1. **Run** `touch gulpfile.js`
-  1. **Run** `npm install gulp --save-dev`
-  1. **Run** `npm install gulp-autoprefixer --save-dev`
+  2. **Run** `npm install gulp --save-dev`
+  3. **Run** `npm install gulp-autoprefixer --save-dev`
+
 
 ### Usage
 
