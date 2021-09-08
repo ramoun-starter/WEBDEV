@@ -50,6 +50,10 @@ To get a local copy up and running follow these simple example steps.
 
   1. **Run** `npm install --save-dev stylelint@13.x stylelint-scss@3.x stylelint-config-standard@21.x stylelint-csstree-validator@1.x`
 
+- install **ESLint** linter
+
+  1. **Run** `npm install --save-dev eslint@7.x eslint-config-airbnb-base@14.x eslint-plugin-import@2.x babel-eslint@10.x`
+
 - install **gulp**
 
   1. **Run** `touch gulpfile.js`
@@ -64,6 +68,9 @@ To get a local copy up and running follow these simple example steps.
   - **Run** `npx hint .` on the root of your directory of your project.
 - run **Stylelint** linter
   - **Run** `npx stylelint "**/*.{css,scss}"` on the root of your directory of your project.
+- run **ESLint** linter
+  - **Run** `npx eslint .` on the root of your directory of your project.
+- run **gulp**
   - **Run** `gulp <name-of-task>` on the root of your directory of your project.
 
 ### Deployment
