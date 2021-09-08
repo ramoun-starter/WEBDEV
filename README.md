@@ -1,4 +1,6 @@
-[![](https://img.shields.io/static/v1?label=BY&message=RAMOUN&color=birghtgreen)](https://mrramoun.github.io)
+[![Ramoun's badge](https://img.shields.io/static/v1?label=BY&message=RAMOUN&color=birghtgreen)](https://mrramoun.github.io)
+
+<!-- Feel Free to Add, Update, Delete Any Section you find needs so -->
 
 # Project Name
 
@@ -48,11 +50,15 @@ To get a local copy up and running follow these simple example steps.
 
   1. **Run** `npm install --save-dev stylelint@13.x stylelint-scss@3.x stylelint-config-standard@21.x stylelint-csstree-validator@1.x`
 
+- install **ESLint** linter
+
+  1. **Run** `npm install --save-dev eslint@7.x eslint-config-airbnb-base@14.x eslint-plugin-import@2.x babel-eslint@10.x`
+
 - install **gulp**
 
   1. **Run** `touch gulpfile.js`
-  1. **Run** `npm install gulp --save-dev`
-  1. **Run** `npm install gulp-autoprefixer --save-dev`
+  2. **Run** `npm install gulp --save-dev`
+  3. **Run** `npm install gulp-autoprefixer --save-dev`
 
 ### Usage
 
@@ -62,17 +68,24 @@ To get a local copy up and running follow these simple example steps.
   - **Run** `npx hint .` on the root of your directory of your project.
 - run **Stylelint** linter
   - **Run** `npx stylelint "**/*.{css,scss}"` on the root of your directory of your project.
+- run **ESLint** linter
+  - **Run** `npx eslint .` on the root of your directory of your project.
+- run **gulp**
   - **Run** `gulp <name-of-task>` on the root of your directory of your project.
 
 ### Deployment
 
 ## Authors
 
-👤 **Author1**
+<!-- Only Change Username for Different Accounts -->
 
-- **GitHub**: [![@mrramoun](https://img.shields.io/github/followers/MrRamoun?label=Ramoun&style=social)](https://github.com/mrramoun)
-- **Twitter**: [![@ramoun16](https://img.shields.io/twitter/follow/ramoun16?label=ramoun16&style=social)](https://twitter.com/ramoun16)
-- **LinkdIn**: [![@ramoun](https://img.shields.io/github/followers/ramon?label=ramoun&logo=linkedin&style=social)](https://www.linkedin.com/in/ramoun/)
+👤 **Ramoun**
+
+ Platform | Badge |
+ --- | --- |
+ **GitHub**  | [![@mrramoun](https://img.shields.io/github/followers/MrRamoun?label=Ramoun&style=social)](https://github.com/mrramoun)
+ **Twitter** | [![@ramoun16](https://img.shields.io/twitter/follow/ramoun16?label=ramoun16&style=social)](https://twitter.com/ramoun16)
+ **LinkdIn** | [![Linkedin Badge](https://img.shields.io/badge/-Ramoun-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/ramoun)](https://www.linkedin.com/in/ramoun/)
 
 👤 **Author2**
 
