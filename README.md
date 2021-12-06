@@ -1,4 +1,3 @@
-[![Ramoun's badge](https://img.shields.io/static/v1?label=BY&message=RAMOUN&color=birghtgreen)](https://mrramoun.github.io)
 
 <!-- Feel Free to Add, Update, Delete Any Section you find needs so -->
 
@@ -6,7 +5,6 @@
 
 > One paragraph statement about the project.
 
-![screenshot](images/app_screenshot.png)
 
 | *Additional description about the project and its features.*
 
@@ -16,9 +14,6 @@
 - Frameworks: _**N/A**_
 - Technologies used: _**GIT, GITHUB, LINTERS**_
 
-## Live Demo
-
-[Live Demo Link](https://livedemo.com)
 
 ## Getting Started
 
@@ -37,7 +32,7 @@ To get a local copy up and running follow these simple example steps.
 - **Open** the terminal.
 - **Run** `cd \path\to\where\you\want\your\local\copy`
 - **Clone** the repo
-  1. **Run** `git clone git@github.com:MrRamoun/README.git`
+  1. **Run** `git clone git@github.com:IsraMarvin/README.git`
   2. **Run** `cd README/`
 
 ### Install
@@ -79,25 +74,17 @@ To get a local copy up and running follow these simple example steps.
 
 <!-- Only Change Username for Different Accounts -->
 
-👤 **Ramoun**
 
  Platform | Badge |
  --- | --- |
- **GitHub**  | [![@mrramoun](https://img.shields.io/github/followers/MrRamoun?label=Ramoun&style=social)](https://github.com/mrramoun)
- **Twitter** | [![@ramoun16](https://img.shields.io/twitter/follow/ramoun16?label=ramoun16&style=social)](https://twitter.com/ramoun16)
- **LinkdIn** | [![Linkedin Badge](https://img.shields.io/badge/-Ramoun-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/ramoun)](https://www.linkedin.com/in/ramoun/)
+ **GitHub**  | [@IsraMarvin](https://github.com/IsraMarvin)
 
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/linkedinhandle)
 
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/MrRamoun/WEBDEV/issues).
+Feel free to check the [issues page](../../issues).
 
 ## Show your support
 
