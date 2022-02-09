@@ -78,7 +78,7 @@ To get a local copy up and running follow these simple example steps.
  Platform | Badge |
  --- | --- |
  **GitHub**  | [@IsaMarvin](https://github.com/IsaMarvin)
- **Linkdin** | [@isa-marvin](https://linkedin.com/in/isa-marvin)
+ **Linkdin** | [@IsaMarvin](https://linkedin.com/in/IsaMarvin)
 
 
 ## 🤝 Contributing
