@@ -32,7 +32,7 @@ To get a local copy up and running follow these simple example steps.
 - **Open** the terminal.
 - **Run** `cd \path\to\where\you\want\your\local\copy`
 - **Clone** the repo
-  1. **Run** `git clone git@github.com:IsraMarvin/README.git`
+  1. **Run** `git clone git@github.com:IsaMarvin/README.git`
   2. **Run** `cd README/`
 
 ### Install
