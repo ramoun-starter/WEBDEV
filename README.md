@@ -42,23 +42,7 @@ To get a local copy up and running follow these simple example steps.
 
 ### Install
 
-- install **Webhint** linter
-
-  1. **Run** `npm install --save-dev hint@6.x`
-
-- install **Stylelint** linter
-
-  1. **Run** `npm install --save-dev stylelint@13.x stylelint-scss@3.x stylelint-config-standard@21.x stylelint-csstree-validator@1.x`
-
-- install **ESLint** linter
-
-  1. **Run** `npm install --save-dev eslint@7.x eslint-config-airbnb-base@14.x eslint-plugin-import@2.x babel-eslint@10.x`
-
-- install **gulp**
-
-  1. **Run** `touch gulpfile.js`
-  2. **Run** `npm install gulp --save-dev`
-  3. **Run** `npm install gulp-autoprefixer --save-dev`
+- `yarn`
 
 ### Usage
 
